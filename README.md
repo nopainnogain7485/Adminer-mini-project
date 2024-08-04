@@ -1,4 +1,5 @@
-WHAT IS THIS PROJECT
+WHAT IS THIS PROJECT? 
+This project was completed during my time studying with Generation UK, and its a display of my skills and how I can merge them together into a viable application 
 
 WHAT THE PROJECT DOES! This is a application inteded to be used by a cafe. This product is inteded to be used in-house and is not meant to be for general use by the public, hence the functioality and what it displays is tailored to fit this criteria. In the app you have the ability to create/ammend/delete products, orders, and couriers. All the information is stored onto a MYSQL database.
 
