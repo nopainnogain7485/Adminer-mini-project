@@ -4,11 +4,12 @@ Sayem's mini project WHAT THE PROJECT DOES! This is a application inteded to be 
 
 HOW TO RUN THE PROJECT:
 
-It is neccessary that you use a MYSQL database when running the application in this project
+It is neccessary that you use a MYSQL database, when making the project i used 'Adminer'. when running the application in this project
 There are 4 files listed in the folder:
 database_link.py (contains all functions for the python code to connect to the database and send/retrive requests
 MINI PROJECT.py (contains the main code for this project and also contains the UI to receieve user input, it also output requests)
 form_db.sql (contains SQL code that you can execute directly into your MYSQL application to create a new database, necessary tables, columns, and keys. It also contains some preset records so you can use the application straight away
+.ENV (contains host/user/password setup for the database
 please setup your data base first using the form_db.sql file and execute this in your MYSQL. Then ensure the .env file has the relevant connection information. Finally ensure that both database_link.py and MINI PROJECT.py are loaded up, and run the MINI PROJECT.py file.
 
 
